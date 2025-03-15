@@ -1,7 +1,7 @@
 name: first
 
 on: push
-# comment
+# comment2
 jobs:
   job1:
     name: First job
